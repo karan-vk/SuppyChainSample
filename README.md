@@ -55,7 +55,7 @@ The smart contract will be built using the [Solidity](https://solidity.readthedo
 The flow of the functions in the smart contracts.
 <p align="centre">
   <a>
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/sequencediagram.png?raw=true" width="1000">
+    <img src="https://github.com/karan-vk/SuppyChainSample/blob/main/images/sequencediagram.png?raw=true" width="1000">
   </a>
 </p>
 
